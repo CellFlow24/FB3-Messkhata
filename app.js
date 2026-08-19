@@ -1,5 +1,5 @@
 // PASTE YOUR GOOGLE APPS SCRIPT WEB APP URL HERE
-const API_URL = "https://script.google.com/macros/s/AKfycbxSQaPQVD0lhiZgB7q7TZy9JFKPXNdI55bHZxZMXvoWkgl6S4O2qhdDBb7o2WwfkTNm5w/exec"; 
+const API_URL = "https://script.google.com/macros/s/AKfycbxCpRFTSojTgqKJ_NGayJN2rMgazxw2ndVql1Cqk-xqHhRYXB9AwOcoB6y6UCJYtX2U/exec"; 
 
 let currentUser = "";
 let currentPassword = "";
